@@ -17,5 +17,7 @@ gf-pixel
 senpai
 senpai-angry
 spirit
+monika
+duet
 bf-pixel-opponent
 pico-player
